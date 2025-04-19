@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dharmik-vaja
 - 👀 I’m interested in Web-Development, Android Development etc.
-- ⭕ I’m currently learning B.Tech / IT / 3rd SEM...
-- 
+- ⭕ I’m currently learning B.Tech / IT / 4rd SEM...
 
 <!---
 Dharmik-vaja/Dharmik-vaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
